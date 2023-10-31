@@ -1,4 +1,4 @@
 # dashboard-admin
 Simple admin user interface
-## Tech
-It is made by HTML, CSS (Bootstrap), JavaScript
+## Technologies
+It is made by HTML5, CSS (Bootstrap 5), JavaScript
